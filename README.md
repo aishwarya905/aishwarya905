@@ -1,8 +1,8 @@
-## Hi👋, I'm Aishwarya Saxena
+ ## Hi👋, I'm Aishwarya Saxena
 
-## 🔭 I’m currently an ECE undergraduate at 
+-🔭 I’m currently an ECE undergraduate at 
 VIT University, Vellore
-## 📫 How to reach me: aishwaryasaxena0509@gmail.com
+- 📫 How to reach me: aishwaryasaxena0509@gmail.com
 
 
 <!--
